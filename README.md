@@ -56,8 +56,6 @@ Once you've completed the assessment and created your pull request, please:
    - `@echeequorum` (Hiring Manager)
    - `@FraserMuir` (Lead Engineer)
 
-*Replace the usernames above with actual GitHub usernames provided by your recruiter*
-
 ## 🏗️ Project Structure
 
 ```
